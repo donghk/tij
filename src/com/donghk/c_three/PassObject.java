@@ -5,9 +5,9 @@ class Letter{
 }
 
 /**
- * ·½·¨ÖĞµ÷ÓÃ±ğÃûÎÊÌâ
+ * æ–¹æ³•ä¸­è°ƒç”¨åˆ«åé—®é¢˜
  * @author donghk
- * @date 2016Äê7ÔÂ1ÈÕ
+ * @date 2016å¹´7æœˆ1æ—¥
  */
 public class PassObject {
 	

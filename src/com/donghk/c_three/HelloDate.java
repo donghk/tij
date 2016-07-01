@@ -3,9 +3,9 @@ package com.donghk.c_three;
 import java.util.Date;
 
 /**
- * ¸ü¼òµ¥µÄ´òÓ¡
+ * æ›´ç®€å•çš„æ‰“å°
  * @author donghk
- * @date 2016Äê7ÔÂ1ÈÕ
+ * @date 2016å¹´7æœˆ1æ—¥
  */
 public class HelloDate {
 

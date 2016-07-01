@@ -3,15 +3,15 @@ package com.donghk.c_three;
 import java.util.Random;
 
 /**
- * ËãÊõ²Ù×÷·û
+ * ç®—æœ¯æ“ä½œç¬¦
  * @author donghk
- * @date 2016Äê7ÔÂ1ÈÕ
+ * @date 2016å¹´7æœˆ1æ—¥
  */
 public class MathOps {
 
 	public static void main(String[] args) {
 		Random rand = new Random(47);
-		// ÕûÊı
+		// æ•´æ•°
 		int i, j, k;
 		j = rand.nextInt(100) + 1;
 		Print.print("j: " + j);
@@ -30,7 +30,7 @@ public class MathOps {
 		j %= k;
 		Print.print("j %= k : " + j);
 		
-		// ¸¡µãĞÍ
+		// æµ®ç‚¹å‹
 		float u, v, w;
 		v = rand.nextFloat();
 		Print.print("v: " + v);

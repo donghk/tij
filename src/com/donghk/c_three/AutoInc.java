@@ -1,9 +1,9 @@
 package com.donghk.c_three;
 
 /**
- * ×Ô¶¯µİÔöºÍµİ¼õ
+ * è‡ªåŠ¨é€’å¢å’Œé€’å‡
  * @author donghk
- * @date 2016Äê7ÔÂ1ÈÕ
+ * @date 2016å¹´7æœˆ1æ—¥
  */
 public class AutoInc {
 	
@@ -16,7 +16,7 @@ public class AutoInc {
 		Print.print("--i : " + --i);
 		Print.print("i-- : " + i--);
 		
-		// ·ûºÅÔÚÇ°ÃæµÄÏÈ¼ÆËã£¬ÔÚºóÃæµÄÏÈÈ¡Öµ
+		// ç¬¦å·åœ¨å‰é¢çš„å…ˆè®¡ç®—ï¼Œåœ¨åé¢çš„å…ˆå–å€¼
 		int a = 3;
 		int b = a++;
 		System.out.println(a);// 4
